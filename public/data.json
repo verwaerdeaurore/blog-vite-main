@@ -1,0 +1,94 @@
+[
+   
+ {
+    "id":1,
+    "nom": "Reptineux",
+    "taille": "1,2 m",
+    "poids": "25 kg",
+    "type": "Eau",
+    "avatar": "/images/img1.jpg",
+    "content": "Ce Pokémon ressemble à un reptile aquatique avec une carapace brillante. Il possède des écailles chatoyantes qui reflètent la lumière du soleil lorsqu'il nage rapidement à travers les océans. Ses nageoires puissantes lui permettent de naviguer habilement dans les profondeurs marines."
+  },
+  {
+    "id":2,
+    "nom": "Oiclair",
+    "taille": "0,8 m",
+    "poids": "10 kg",
+    "type": "Électrique",
+    "avatar": "/images/img2.jpg",
+    "content": "Cet oiseau électrique a des ailes lumineuses qui émettent des éclairs lorsqu'il vole à travers le ciel. Sa capacité à générer de puissantes décharges électriques en fait un Pokémon redoutable en combat. Il est connu pour ses attaques électriques fulgurantes."
+  },
+   {
+    "id":3,
+    "nom": "Fenflamme",
+    "taille": "1,0 m",
+    "poids": "30 kg",
+    "type": "Feu",
+    "avatar": "/images/img3.jpg",
+    "content": "Ce félin a une crinière enflammée qui brille d'une lueur rougeoyante. Ses griffes sont redoutables et capables de lancer des flammes. Il est agile et rapide, et son pelage est d'un orange vif."
+  },
+   {
+    "id":4,
+    "nom": "Inflage",
+    "taille": "0,5 m",
+    "poids": "5 kg",
+    "type": "Plante",
+    "avatar": "/images/img4.jpg",
+    "content": "Ce Pokémon ressemble à un insecte avec une capacité exceptionnelle de camouflage. Il peut se fondre parfaitement dans son environnement en imitant les plantes locales. Son nectar sucré attire les proies, ce qui en fait un prédateur rusé."
+  },
+ {
+    "id":5,
+    "nom": "Getagne",
+    "taille": "5,0 m",
+    "poids": "500 kg",
+    "type": "Roche",
+    "avatar": "/images/img5.jpg",
+    "content": "Ce Pokémon est un géant qui habite les sommets des montagnes. Son corps est solide comme la roche et orné de pierres précieuses. Il est vénéré par les habitants des régions montagneuses pour sa force et sa sagesse."
+  },
+   {
+    "id":6,
+    "nom": "Illusipathe",
+    "taille": "1,5 m",
+    "poids": "40 kg",
+    "type": "Psychique",
+    "avatar": "/images/img6.jpg",
+    "content": "Ce Pokémon possède des pouvoirs psychiques exceptionnels, y compris la capacité de créer des illusions. Il communique par télépathie et peut lire les pensées des autres. Il a une aura mystérieuse qui le rend fascinant."
+  },
+  {
+    "id":7,
+    "nom": "Metrombre",
+    "taille": "1,2 m",
+    "poids": "35 kg",
+    "type": "Ténèbres",
+    "avatar": "/images/img7.jpg",
+    "content": "Ce Pokémon est un maître des ombres, se déplaçant silencieusement dans la nuit. Sa lueur malveillante lui permet de se faufiler inaperçu. Il est associé à la noirceur et au mystère."
+  },
+  {
+    "id":8,
+    "nom": "Mammacier",
+    "taille": "3,0 m",
+    "poids": "600 kg",
+    "type": "Glace",
+    "avatar": "/images/img8.jpg",
+    "content": "Ce mammouth géant se déplace à travers les glaciers avec son souffle glacé. Son pelage épais le protège du froid extrême, et il a la capacité de créer des tempêtes de neige. Sa présence est associée à l'hiver rigoureux."
+  },
+{
+    "id":9,
+    "nom": "Robure",
+    "taille": "2,0 m",
+    "poids": "100 kg",
+    "type": "Acier",
+    "avatar": "/images/img9.jpg",
+    "content": "Ce Pokémon ressemble à un robot armuré avec des lasers intégrés dans son corps. Son armure est pratiquement indestructible, ce qui le rend résistant en combat. Il émet une lueur métallique lorsque ses pouvoirs sont activés."
+  },
+ {
+    "id":10,
+    "nom": "Chachantée",
+    "taille": "0,6 m",
+    "poids": "8 kg",
+    "type": "Fée",
+    "avatar": "/images/img10.jpg",
+    "content": "Ce Pokémon a des ailes délicates en forme de pétales de fleurs et possède d'incroyables pouvoirs magiques. Il est le gardien de la forêt enchantée, veillant sur les créatures qui y habitent. Sa présence apporte la paix et la beauté à la nature environnante."
+  }
+
+]
